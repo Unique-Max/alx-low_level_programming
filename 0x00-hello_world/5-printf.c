@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
 * main - Empty point
 *
@@ -6,6 +6,6 @@
 */
 int main(void)
 {
-            printf("with proper grammar, but the outcome is a price of art, \n");
-        return (0);
+	printf("with proper grammar, but the outcome is a price of art, \n");
+	return (0);
 }
