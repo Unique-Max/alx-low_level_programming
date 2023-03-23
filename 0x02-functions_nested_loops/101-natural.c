@@ -1,10 +1,3 @@
-101 - natural.c
-
-/*
- * File: 101-natural.c
- * Auth: vincent kip
- */
-
 #include <stdio.h>
 
 /**
@@ -22,8 +15,6 @@ int main(void)
 		if ((i % 3) == 0 || (i % 5) == 0)
 			sum += i;
 	}
-
 	printf("%d\n", sum);
-
 	return (0);
 }
